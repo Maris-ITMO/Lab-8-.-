@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 8СамРабота. Работа с файловой системой", "Lab 8СамРабота. Работа с файловой системой\Lab 8СамРабота. Работа с файловой системой.csproj", "{EF3C6395-4757-43B8-AD6D-E721F0B62830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new file 10 numbers", "new file 10 numbers\new file 10 numbers.csproj", "{FBDBDA9C-A478-4AC0-9597-1C803C168FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF3C6395-4757-43B8-AD6D-E721F0B62830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3C6395-4757-43B8-AD6D-E721F0B62830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3C6395-4757-43B8-AD6D-E721F0B62830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3C6395-4757-43B8-AD6D-E721F0B62830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDBDA9C-A478-4AC0-9597-1C803C168FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDBDA9C-A478-4AC0-9597-1C803C168FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDBDA9C-A478-4AC0-9597-1C803C168FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDBDA9C-A478-4AC0-9597-1C803C168FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {892C7893-6A77-4ABB-B111-2DF678BD6B78}
+	EndGlobalSection
+EndGlobal

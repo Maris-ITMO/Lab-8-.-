@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Lab_8СамРабота._Работа_с_файловой_системой</RootNamespace>
+  </PropertyGroup>
+
+</Project>
